@@ -1,7 +1,7 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> 𝐏𝐈𝐂𝐊 𝐔𝐏 𝐋𝐈𝐍𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/868cfeb5f617424d2c316.jpg" alt="𝐏𝐈𝐂𝐊 𝐔𝐏 𝐋𝐈𝐍𝐄𝐒 𝐌𝐔𝐒𝐈𝐂 Logo" width="640" height="360">
 </p>
 
 <p align="center">
